@@ -7,10 +7,10 @@
 [![BLOG](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebraimsambo)
 
 
-![Ebraim GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebraimsambo&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ebraimsambo&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebraimsambo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
-### Technologies I use
+### Technologies I use 🔥
 
 <div style="display: inline_block">
 <img style="height: 40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
@@ -24,3 +24,9 @@
 <img style="height: 40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg"/>          
 
 </div>
+
+###
+
+
+
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
