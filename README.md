@@ -6,10 +6,6 @@
 [![BLOG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://twitter.com/ebraimsambo)
 [![BLOG](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ebraimsambo)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebraimsambo&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Ebraim Sambo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
 ### Technologies I use 🔥
 
 <div style="display: inline_block">
